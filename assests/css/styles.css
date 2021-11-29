@@ -1,0 +1,24 @@
+body {
+  background-color: grey;
+}
+
+#Heading {
+  text-align: center;
+  font-family: sans-serif;
+  color: red;
+}
+
+.container {
+  text-align: center;
+  width: 300px;
+}
+
+#celcbox {
+  height: 100px;
+  background-color: lightgray;
+}
+
+#fahrbox {
+  height: 100px;
+  background-color: lightgray;
+}
