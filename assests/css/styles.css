@@ -9,8 +9,8 @@ body {
 }
 
 .container {
-  text-align: center;
-  width: 300px;
+  place-items: center;
+  /* width: 300px; */
 }
 
 #celcbox {
